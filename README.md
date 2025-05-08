@@ -7,9 +7,6 @@
 
 A modern and elegant ☕ **Java Swing** application for managing your library's books and users with style!  
 
-<div align="center">
-  <img src="screenshot.png" width="600" alt="Library System Screenshot">
-</div>
 
 ---
 
@@ -44,10 +41,10 @@ graph TD
     B --> D[Modern GUI]
     C --> E[MVC Pattern]
 
-PROJECT STRUCTURE 
 lib-management/
 ├── 📄 Book.java        # Book entity class
 ├── 📄 User.java        # User entity class
 ├── 📄 Library.java     # Core library logic
 ├── 📄 LibraryGUI.java  # Beautiful Swing interface
 └── 📄 Main.java        # Entry point
+
