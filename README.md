@@ -38,7 +38,7 @@ A modern and elegant ☕ **Java Swing** application for managing your library's 
 
 graph TD
 
-      A[Java 17+] --> B[Java Swing]
+      A[Java 23] --> B[Java Swing]
        A --> C[OOP Principles]
         B --> D[Modern GUI]
          C --> E[MVC Pattern]
