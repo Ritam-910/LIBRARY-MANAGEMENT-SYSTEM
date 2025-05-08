@@ -12,18 +12,9 @@ LibraryManagementSystem/
 │   │   │   │   │   ├── models/
 │   │   │   │   │   │   ├── Book.java
 │   │   │   │   │   │   ├── User.java
-│   │   │   │   │   ├── services/
-│   │   │   │   │   │   ├── LibraryService.java
-│   │   │   │   │   ├── controllers/
-│   │   │   │   │   │   ├── LibraryController.java
-│   │   │   │   │   ├── config/
-│   │   │   │   │   │   ├── AppConfig.java
-│   │   │   │   │   ├── LibraryApplication.java
-│   │   ├── resources/
-│   │   │   ├── application.properties
-│
-├── pom.xml
-└── README.md
+│   │   │   │   │   │   ├── Library.java
+│   │   │   │   │   │   ├── LibraryGUI.java
+│   │   │   │   │   │   ├── Main.java
 
 ## Folder Structure
 
