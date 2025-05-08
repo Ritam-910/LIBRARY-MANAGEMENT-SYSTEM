@@ -38,8 +38,6 @@ A modern and elegant ☕ **Java Swing** application for managing your library's 
 ---
 
 ## 🛠️ Tech Stack
-
-```mermaid
 graph TD
     A[Java 17+] --> B[Java Swing]
     A --> C[OOP Principles]
