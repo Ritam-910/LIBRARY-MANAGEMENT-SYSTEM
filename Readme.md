@@ -1,4 +1,3 @@
-echo "# LIBRARY-MANAGEMENT-SYSTEM" >> README.md
 git init
 git commit -m "first commit"
 git branch -M main
