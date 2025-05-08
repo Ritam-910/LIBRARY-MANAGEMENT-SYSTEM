@@ -42,9 +42,10 @@ graph TD
     C --> E[MVC Pattern]
 
 lib-management/
-├── 📄 Book.java        # Book entity class
-├── 📄 User.java        # User entity class
-├── 📄 Library.java     # Core library logic
-├── 📄 LibraryGUI.java  # Beautiful Swing interface
-└── 📄 Main.java        # Entry point
+
+         ├── 📄 Book.java        # Book entity class
+          ├── 📄 User.java        # User entity class
+           ├── 📄 Library.java     # Core library logic
+            ├── 📄 LibraryGUI.java  # Beautiful Swing interface
+             └── 📄 Main.java        # Entry point
 
