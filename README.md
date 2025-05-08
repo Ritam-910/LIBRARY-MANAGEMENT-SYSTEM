@@ -1,6 +1,6 @@
 # 📚✨ Library Management System - Java 🖥️☕
 
-![Java](https://img.shields.io/badge/Java-23%2B-orange?logo=java)
+![Java](https://img.shields.io/badge/Java-23-orange?logo=java)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
 ![GUI](https://img.shields.io/badge/GUI-Java%20Swing-yellowgreen)
