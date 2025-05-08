@@ -41,8 +41,7 @@ graph TD
     B --> D[Modern GUI]
     C --> E[MVC Pattern]
 
-lib-management/
-
+PROJECT STRUCTURE
          ├── 📄 Book.java        # Book entity class
           ├── 📄 User.java        # User entity class
            ├── 📄 Library.java     # Core library logic
