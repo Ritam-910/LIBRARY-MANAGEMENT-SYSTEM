@@ -35,6 +35,7 @@ A modern and elegant ☕ **Java Swing** application for managing your library's 
 ---
 
 ## 🛠️ Tech Stack
+
 graph TD
     A[Java 17+] --> B[Java Swing]
     A --> C[OOP Principles]
@@ -42,6 +43,7 @@ graph TD
     C --> E[MVC Pattern]
 
 PROJECT STRUCTURE
+
          ├── 📄 Book.java        # Book entity class
           ├── 📄 User.java        # User entity class
            ├── 📄 Library.java     # Core library logic
