@@ -1,5 +1,1 @@
-git init
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Ritam-910/LIBRARY-MANAGEMENT-SYSTEM.git
-git push -u origin main
+
